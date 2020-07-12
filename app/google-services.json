@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "641756923828",
+    "firebase_url": "https://easy-2-learn-783d5.firebaseio.com",
+    "project_id": "easy-2-learn-783d5",
+    "storage_bucket": "easy-2-learn-783d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641756923828:android:65ebcd9dfc92cc421314e1",
+        "android_client_info": {
+          "package_name": "com.easy2learn.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641756923828-1tupgnis49e3dlroufltgri7jjtf5o3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuLXDJcnH1-FHsC31qP7MVzr48R37mH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641756923828-1tupgnis49e3dlroufltgri7jjtf5o3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641756923828-0jdqg2tfevef76ngqdjscq59npqaa7pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Zoia.Easy2Learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641756923828:android:e6ed221b8067c6091314e1",
+        "android_client_info": {
+          "package_name": "com.easy_2_learn.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641756923828-1tupgnis49e3dlroufltgri7jjtf5o3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuLXDJcnH1-FHsC31qP7MVzr48R37mH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641756923828-1tupgnis49e3dlroufltgri7jjtf5o3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641756923828-0jdqg2tfevef76ngqdjscq59npqaa7pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Zoia.Easy2Learn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

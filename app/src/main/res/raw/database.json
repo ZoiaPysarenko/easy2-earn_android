@@ -1,0 +1,469 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fruits",
+      "coverUrl": "fruits"
+    },
+    {
+      "id": 2,
+      "name": "Animals",
+      "coverUrl": "animals"
+    },
+    {
+      "id": 3,
+      "name": "City",
+      "coverUrl": "city"
+    },
+    {
+      "id": 4,
+      "name": "Clothes",
+      "coverUrl": "clothes"
+    },
+    {
+      "id": 5,
+      "name": "House",
+      "coverUrl": "house"
+    },
+    {
+      "id": 6,
+      "name": "Work",
+      "coverUrl": "work"
+    }
+  ],
+  "vocabularies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "url": "apple",
+      "word": "apple",
+      "quiz": ["aple", "appel", "appal", "apple"],
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "url": "banana",
+      "word": "banana",
+      "quiz": ["bannana", "banan", "binana", "banana"],
+      "category": 1
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "url": "orange",
+      "word": "orange",
+      "quiz": ["orandg", "orenge", "orrange", "orange"],
+      "category": 1
+    },
+    {
+      "id": 4,
+      "name": "Pear",
+      "url": "pear",
+      "word": "pear",
+      "quiz": ["pere", "peer", "pea", "pear"],
+      "category": 1
+    },
+    {
+      "id": 5,
+      "name": "Plum",
+      "url": "plum",
+      "word": "plum",
+      "quiz": ["plam", "plamb", "plunn", "plum"],
+      "category": 1
+    },
+    {
+      "id": 6,
+      "name": "Pineapple",
+      "url": "pineapple",
+      "word": "pineapple",
+      "quiz": ["ananas", "pineaple", "pinapple", "pineapple"],
+      "category": 1
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "url": "strawberry",
+      "word": "strawberry",
+      "quiz": ["strawbarry", "strawbarri", "stroberry", "strawberry"],
+      "category": 1
+    },
+    {
+      "id": 8,
+      "name": "Cherry",
+      "url": "cherry",
+      "word": "cherry",
+      "quiz": ["charry", "cherri", "chari", "cherry"],
+      "category": 1
+    },
+    {
+      "id": 9,
+      "name": "Grapes",
+      "url": "grapes",
+      "word": "grapes",
+      "quiz": ["graps", "grades", "grap", "grapes"],
+      "category": 1
+    },
+    {
+      "id": 10,
+      "name": "Tiger",
+      "url": "tiger",
+      "word": "tiger",
+      "quiz": ["taige", "tigre", "teger", "tiger"],
+      "category": 2
+    },
+    {
+      "id": 11,
+      "name": "Zebra",
+      "url": "zebra",
+      "word": "zebra",
+      "quiz": ["zibra", "zebor", "horse", "zebra"],
+      "category": 2
+    },
+    {
+      "id": 12,
+      "name": "Elephant",
+      "url": "elephant",
+      "word": "elephant",
+      "quiz": ["alafant", "elefant", "alephand", "elephant"],
+      "category": 2
+    },
+    {
+      "id": 13,
+      "name": "Snake",
+      "url": "snake",
+      "word": "snake",
+      "quiz": ["snaik", "sneak", "sneik", "snake"],
+      "category": 2
+    },
+    {
+      "id": 14,
+      "name": "Monkey",
+      "url": "monkey",
+      "word": "monkey",
+      "quiz": ["mankey", "manki", "munkey", "monkey"],
+      "category": 2
+    },
+    {
+      "id": 15,
+      "name": "Giraffe",
+      "url": "giraffe",
+      "word": "giraffe",
+      "quiz": ["jiraf", "djiraf", "giraf", "giraffe"],
+      "category": 2
+    },
+    {
+      "id": 16,
+      "name": "Alligator",
+      "url": "alligator",
+      "word": "alligator",
+      "quiz": ["aligator", "eligator", "alligetor", "alligator"],
+      "category": 2
+    },
+    {
+      "id": 17,
+      "name": "Kangaroo",
+      "url": "kangaroo",
+      "word": "kangaroo",
+      "quiz": ["kenguru", "kanguru", "ckenguroo", "kangaroo"],
+      "category": 2
+    },
+    {
+      "id": 18,
+      "name": "Lion",
+      "url": "lion",
+      "word": "lion",
+      "quiz": ["laon", "liyon", "laion", "lion"],
+      "category": 2
+    },
+    {
+      "id": 19,
+      "name": "Hospital",
+      "url": "hospital",
+      "word": "hospital",
+      "quiz": ["gospital", "hospitel", "ill house", "hospital"],
+      "category": 3
+    },
+    {
+      "id": 20,
+      "name": "Zoo",
+      "url": "zoo",
+      "word": "zoo",
+      "quiz": ["soo", "zu", "zo", "zoo"],
+      "category": 3
+    },
+    {
+      "id": 21,
+      "name": "Gym",
+      "url": "gym",
+      "word": "gym",
+      "quiz": ["jim", "gim", "gymmy", "gym"],
+      "category": 3
+    },
+    {
+      "id": 22,
+      "name": "Stadium",
+      "url": "stadium",
+      "word": "stadium",
+      "quiz": ["stadion", "sport field", "colliseum", "stadium"],
+      "category": 3
+    },
+    {
+      "id": 23,
+      "name": "Supermarket",
+      "url": "supermarket",
+      "word": "supermarket",
+      "quiz": ["suprmarket", "supermarkt", "supershop", "supermarket"],
+      "category": 3
+    },
+    {
+      "id": 24,
+      "name": "Museum",
+      "url": "museum",
+      "word": "museum",
+      "quiz": ["museon", "muse", "mooseum", "museum"],
+      "category": 3
+    },
+    {
+      "id": 25,
+      "name": "Playground",
+      "url": "playground",
+      "word": "playground",
+      "quiz": ["play field", "children place", "play box", "playground"],
+      "category": 3
+    },
+    {
+      "id": 26,
+      "name": "Cinema",
+      "url": "cinema",
+      "word": "cinema",
+      "quiz": ["tv hall", "cinima", "sinema", "cinema"],
+      "category": 3
+    },
+    {
+      "id": 27,
+      "name": "School",
+      "url": "school",
+      "word": "school",
+      "quiz": ["skool", "sckool", "skul", "school"],
+      "category": 3
+    },
+    {
+      "id": 28,
+      "name": "Boots",
+      "url": "boots",
+      "word": "boots",
+      "quiz": ["buts", "boats", "buuts", "boots"],
+      "category": 4
+    },
+    {
+      "id": 29,
+      "name": "Shorts",
+      "url": "shorts",
+      "word": "shorts",
+      "quiz": ["shirts", "chorts", "short", "shorts"],
+      "category": 4
+    },
+    {
+      "id": 30,
+      "name": "Skirt",
+      "url": "skirt",
+      "word": "skirt",
+      "quiz": ["skurt", "scirt", "skit", "skirt"],
+      "category": 4
+    },
+    {
+      "id": 31,
+      "name": "Dress",
+      "url": "dress",
+      "word": "dress",
+      "quiz": ["drass", "dres", "drecc", "dress"],
+      "category": 4
+    },
+    {
+      "id": 32,
+      "name": "Hat",
+      "url": "hat",
+      "word": "hat",
+      "quiz": ["het", "hut", "hot", "hat"],
+      "category": 4
+    },
+    {
+      "id": 33,
+      "name": "Gloves",
+      "url": "gloves",
+      "word": "gloves",
+      "quiz": ["glavs", "glovez", "glaves", "gloves"],
+      "category": 4
+    },
+    {
+      "id": 34,
+      "name": "Coat",
+      "url": "coat",
+      "word": "coat",
+      "quiz": ["koat", "koot", "koad", "coat"],
+      "category": 4
+    },
+    {
+      "id": 35,
+      "name": "Jacket",
+      "url": "jacket",
+      "word": "jacket",
+      "quiz": ["djacket", "gaket", "jaket", "jacket"],
+      "category": 4
+    },
+    {
+      "id": 36,
+      "name": "Shirt",
+      "url": "shirt",
+      "word": "shirt",
+      "quiz": ["short", "shert", "shoart", "shirt"],
+      "category": 4
+    },
+    {
+      "id": 37,
+      "name": "Cottage",
+      "url": "cottage",
+      "word": "cottage",
+      "quiz": ["kotage", "kotage", "cotage", "cottage"],
+      "category": 5
+    },
+    {
+      "id": 38,
+      "name": "Apartment",
+      "url": "apartment",
+      "word": "apartment",
+      "quiz": ["appartment", "appurtment", "epartment", "apartment"],
+      "category": 5
+    },
+    {
+      "id": 39,
+      "name": "Garden",
+      "url": "garden",
+      "word": "garden",
+      "quiz": ["garten", "gaden", "gurden", "garden"],
+      "category": 5
+    },
+    {
+      "id": 40,
+      "name": "Garage",
+      "url": "garage",
+      "word": "garage",
+      "quiz": ["garaj", "garuge", "garradge", "garage"],
+      "category": 5
+    },
+    {
+      "id": 41,
+      "name": "Bathroom",
+      "url": "bathroom",
+      "word": "bathroom",
+      "quiz": ["basroom", "bathrum", "bassroom", "bathroom"],
+      "category": 5
+    },
+    {
+      "id": 42,
+      "name": "Kitchen",
+      "url": "kitchen",
+      "word": "kitchen",
+      "quiz": ["kidchen", "ketchen", "keetchen", "kitchen"],
+      "category": 5
+    },
+    {
+      "id": 43,
+      "name": "Living room",
+      "url": "living_room",
+      "word": "living room",
+      "quiz": ["saloon", "leaving room", "livin room", "living room"],
+      "category": 5
+    },
+    {
+      "id": 44,
+      "name": "Bedroom",
+      "url": "bedroom",
+      "word": "bedroom",
+      "quiz": ["badroom", "betroom", "bedrum", "bedroom"],
+      "category": 5
+    },
+    {
+      "id": 45,
+      "name": "Hall",
+      "url": "hall",
+      "word": "hall",
+      "quiz": ["holl", "hal", "hol", "hall"],
+      "category": 5
+    },
+    {
+      "id": 46,
+      "name": "Office",
+      "url": "office",
+      "word": "office",
+      "quiz": ["offise", "ofise", "ofice", "office"],
+      "category": 6
+    },
+    {
+      "id": 47,
+      "name": "Colleague",
+      "url": "colleague",
+      "word": "colleague",
+      "quiz": ["colig", "coleague", "coligue", "colleague"],
+      "category": 6
+    },
+    {
+      "id": 48,
+      "name": "Desk",
+      "url": "desk",
+      "word": "desk",
+      "quiz": ["dask", "desc", "deck", "desk"],
+      "category": 6
+    },
+    {
+      "id": 49,
+      "name": "Pen",
+      "url": "pen",
+      "word": "pen",
+      "quiz": ["pan", "peen", "ben", "pen"],
+      "category": 6
+    },
+    {
+      "id": 50,
+      "name": "Folder",
+      "url": "folder",
+      "word": "folder",
+      "quiz": ["floter", "folter", "falder", "folder"],
+      "category": 6
+    },
+    {
+      "id": 51,
+      "name": "Chair",
+      "url": "chair",
+      "word": "chair",
+      "quiz": ["cheer", "chaer", "choor", "chair"],
+      "category": 6
+    },
+    {
+      "id": 52,
+      "name": "Meeting",
+      "url": "meeting",
+      "word": "meeting",
+      "quiz": ["miting", "meating", "miiting", "meeting"],
+      "category": 6
+    },
+    {
+      "id": 53,
+      "name": "Chief",
+      "url": "chief",
+      "word": "chief",
+      "quiz": ["cheef", "cheaf", "chaef", "chief"],
+      "category": 6
+    },
+    {
+      "id": 54,
+      "name": "Salary",
+      "url": "salary",
+      "word": "salary",
+      "quiz": ["selery", "salari", "salery", "salary"],
+      "category": 6
+    }
+  ]
+}
+

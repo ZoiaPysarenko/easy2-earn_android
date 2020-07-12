@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/presentationFragment">
+
+    <fragment
+        android:id="@+id/presentationFragment"
+        android:name="com.easy2learn.game.ui.topic.PresentationFragment"
+        android:label="fragment_presentation"
+        tools:layout="@layout/fragment_presentation" >
+        <action
+            android:id="@+id/action_presentationFragment_to_gameOptionsFragment"
+            app:destination="@id/gameOptionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameOptionsFragment"
+        android:name="com.easy2learn.game.ui.topic.games.GameOptionsFragment"
+        android:label="fragment_game_options"
+        tools:layout="@layout/fragment_game_options" >
+        <action
+            android:id="@+id/action_gameOptionsFragment_to_memoryFragment"
+            app:destination="@id/memoryFragment" />
+        <action
+            android:id="@+id/action_gameOptionsFragment_to_anagramsFragment"
+            app:destination="@id/anagramsFragment" />
+        <action
+            android:id="@+id/action_gameOptionsFragment_to_quizFragment"
+            app:destination="@id/quizFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/memoryFragment"
+        android:name="com.easy2learn.game.ui.topic.games.MemoryFragment"
+        android:label="fragment_memory"
+        tools:layout="@layout/fragment_memory" />
+    <fragment
+        android:id="@+id/anagramsFragment"
+        android:name="com.easy2learn.game.ui.topic.games.AnagramsFragment"
+        android:label="fragment_anagrams"
+        tools:layout="@layout/fragment_anagrams" />
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.easy2learn.game.ui.topic.games.QuizFragment"
+        android:label="fragment_quiz"
+        tools:layout="@layout/fragment_quiz" />
+</navigation>

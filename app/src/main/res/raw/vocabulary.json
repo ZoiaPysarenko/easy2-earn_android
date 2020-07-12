@@ -1,0 +1,310 @@
+{
+  "feed":{
+    "Fruits": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "url": "apple",
+        "word": "apple"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "url": "banana",
+        "word": "banana"
+      },
+      {
+        "id": 3,
+        "name": "Orange",
+        "url": "orange",
+        "word": "orange"
+      },
+      {
+        "id": 4,
+        "name": "Pear",
+        "url": "pear",
+        "word": "pear"
+      },
+      {
+        "id": 5,
+        "name": "Plum",
+        "url": "plum",
+        "word": "plum"
+      },
+      {
+        "id": 6,
+        "name": "Pineapple",
+        "url": "pineapple",
+        "word": "pineapple"
+      },
+      {
+        "id": 7,
+        "name": "Strawberry",
+        "url": "strawberry",
+        "word": "strawberry"
+      },
+      {
+        "id": 8,
+        "name": "Cherry",
+        "url": "cherry",
+        "word": "cherry"
+      },
+      {
+        "id": 9,
+        "name": "Grapes",
+        "url": "grapes",
+        "word": "grapes"
+      }
+    ],
+    "Animals": [
+      {
+        "id": 1,
+        "name": "Tiger",
+        "url": "tiger",
+        "word": "tiger"
+      },
+      {
+        "id": 2,
+        "name": "Zebra",
+        "url": "zebra",
+        "word": "zebra"
+      },
+      {
+        "id": 3,
+        "name": "Elephant",
+        "url": "elephant",
+        "word": "elephant"
+      },
+      {
+        "id": 4,
+        "name": "Snake",
+        "url": "snake",
+        "word": "snake"
+      },
+      {
+        "id": 5,
+        "name": "Monkey",
+        "url": "monkey",
+        "word": "monkey"
+      },
+      {
+        "id": 6,
+        "name": "Giraffe",
+        "url": "giraffe",
+        "word": "giraffe"
+      },
+      {
+        "id": 7,
+        "name": "Alligator",
+        "url": "alligator",
+        "word": "alligator"
+      },
+      {
+        "id": 8,
+        "name": "Kangaroo",
+        "url": "kangaroo",
+        "word": "kangaroo"
+      }
+    ],
+    "City": [
+      {
+        "id": 1,
+        "name": "Hospital",
+        "url": "hospital",
+        "word": "hospital"
+      },
+      {
+        "id": 2,
+        "name": "Zoo",
+        "url": "zoo",
+        "word": "zoo"
+      },
+      {
+        "id": 3,
+        "name": "Gym",
+        "url": "gym",
+        "word": "gym"
+      },
+      {
+        "id": 4,
+        "name": "Stadium",
+        "url": "stadium",
+        "word": "stadium"
+      },
+      {
+        "id": 5,
+        "name": "Supermarket",
+        "url": "supermarket",
+        "word": "supermarket"
+      },
+      {
+        "id": 6,
+        "name": "Museum",
+        "url": "museum",
+        "word": "museum"
+      },
+      {
+        "id": 7,
+        "name": "Playground",
+        "url": "playground",
+        "word": "playground"
+      },
+      {
+        "id": 8,
+        "name": "Cinema",
+        "url": "cinema",
+        "word": "cinema"
+      }
+    ],
+    "Clothes": [
+      {
+        "id": 1,
+        "name": "Boots",
+        "url": "boots",
+        "word": "boots"
+      },
+      {
+        "id": 2,
+        "name": "Shorts",
+        "url": "shorts",
+        "word": "shorts"
+      },
+      {
+        "id": 3,
+        "name": "Skirt",
+        "url": "skirt",
+        "word": "skirt"
+      },
+      {
+        "id": 4,
+        "name": "Dress",
+        "url": "dress",
+        "word": "dress"
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "url": "hat",
+        "word": "hat"
+      },
+      {
+        "id": 6,
+        "name": "Gloves",
+        "url": "gloves",
+        "word": "gloves"
+      },
+      {
+        "id": 7,
+        "name": "Coat",
+        "url": "coat",
+        "word": "coat"
+      },
+      {
+        "id": 8,
+        "name": "Jacket",
+        "url": "jacket",
+        "word": "jacket"
+      }
+    ],
+    "House": [
+      {
+        "id": 1,
+        "name": "Cottage",
+        "url": "cottage",
+        "word": "cottage"
+      },
+      {
+        "id": 2,
+        "name": "Apartment",
+        "url": "apartment",
+        "word": "apartment"
+      },
+      {
+        "id": 3,
+        "name": "Garden",
+        "url": "garden",
+        "word": "garden"
+      },
+      {
+        "id": 4,
+        "name": "Garage",
+        "url": "garage",
+        "word": "garage"
+      },
+      {
+        "id": 5,
+        "name": "Bathroom",
+        "url": "bathroom",
+        "word": "bathroom"
+      },
+      {
+        "id": 6,
+        "name": "Kitchen",
+        "url": "kitchen",
+        "word": "kitchen"
+      },
+      {
+        "id": 7,
+        "name": "Living room",
+        "url": "living_room",
+        "word": "living room"
+      },
+      {
+        "id": 8,
+        "name": "Bedroom",
+        "url": "bedroom",
+        "word": "bedroom"
+      }
+    ],
+    "Work": [
+      {
+        "id": 1,
+        "name": "Office",
+        "url": "office",
+        "word": "office"
+      },
+      {
+        "id": 2,
+        "name": "Colleague",
+        "url": "colleague",
+        "word": "colleague"
+      },
+      {
+        "id": 3,
+        "name": "Desk",
+        "url": "desk",
+        "word": "desk"
+      },
+      {
+        "id": 4,
+        "name": "Pen",
+        "url": "pen",
+        "word": "pen"
+      },
+      {
+        "id": 5,
+        "name": "Folder",
+        "url": "folder",
+        "word": "folder"
+      },
+      {
+        "id": 6,
+        "name": "Chair",
+        "url": "chair",
+        "word": "chair"
+      },
+      {
+        "id": 7,
+        "name": "Meeting",
+        "url": "meeting",
+        "word": "meeting"
+      },
+      {
+        "id": 8,
+        "name": "Chief",
+        "url": "chief",
+        "word": "chief"
+      }
+    ]
+  }
+}
